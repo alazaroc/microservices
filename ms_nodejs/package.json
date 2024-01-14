@@ -1,0 +1,17 @@
+{
+    "name": "ms-nodejs",
+    "version": "1.0.0",
+    "description": "NodeJS simple microservice",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "me",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.56.0"
+    }
+}
