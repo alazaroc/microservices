@@ -9,7 +9,7 @@
     "author": "me",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.21.0"
     },
     "devDependencies": {
         "eslint": "^8.56.0"
